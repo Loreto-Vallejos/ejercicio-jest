@@ -56,7 +56,7 @@ test("suma 2 + 3 debe devolver 5", () => {
 
 Todas las pruebas del proyecto fueron ejecutadas exitosamente:
 
-assets/prueba-jest.png
+![Prueba](./assets/prueba-jest.png)
 
 
 
