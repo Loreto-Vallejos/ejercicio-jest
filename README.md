@@ -1,4 +1,4 @@
-** Ejercicio de Jest **
+**Ejercicio de Jest**
 
 Mini proyecto creado para practicar pruebas unitarias usando Jest en JavaScript.
 
